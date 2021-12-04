@@ -1,5 +1,5 @@
 const TelegramBot = require('node-telegram-bot-api');
-const token = '1971599891:AAESxdMjznYAFfsGVLdIhUIxd4L1IIiR-BI';
+const token = '';
 const RandomAPI = require('./api/api_quotes');
 
 const joke = new RandomAPI();
